@@ -1,0 +1,14 @@
+asgiref==3.12.1
+Django==6.1.2
+djangorestframework==3.18.3
+numpy==2.5.4
+pandas==3.0.6
+python-dateutil==3.0.0
+six==1.17.0
+sqlparse==0.6.0
+tzdata==2026.5
+
+
+streamlit
+pandas
+requests
